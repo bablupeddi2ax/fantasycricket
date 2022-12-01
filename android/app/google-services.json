@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "725586085351",
+    "project_id": "fantasycricket-7cfd5",
+    "storage_bucket": "fantasycricket-7cfd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725586085351:android:7cc17925e483ea2aa0a942",
+        "android_client_info": {
+          "package_name": "com.reeprofile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725586085351-gnsoi9rhrorq193v7ch3hfnd4cbi4q5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoBZDVN3U7A9QvkItwN3Y3RJ0Sx7iHs-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725586085351-gnsoi9rhrorq193v7ch3hfnd4cbi4q5f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725586085351:android:676a212a4a8450afa0a942",
+        "android_client_info": {
+          "package_name": "com.reeprofile.fantasy_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725586085351-gnsoi9rhrorq193v7ch3hfnd4cbi4q5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoBZDVN3U7A9QvkItwN3Y3RJ0Sx7iHs-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725586085351-gnsoi9rhrorq193v7ch3hfnd4cbi4q5f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
